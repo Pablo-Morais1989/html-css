@@ -1,0 +1,29 @@
+/*
+Global setings
+*/
+
+
+/*
+Global page
+*/
+.page {
+  width: 800px;
+  margin: 0 auto;
+}
+
+/*
+Page-contact
+*/
+.page-contact {
+  background-color: aqua;
+}
+
+/*
+Page-home
+*/
+.page-home {
+  background-color: rgb(10, 58, 6);
+}
+.page-home h1 {
+  color: white;
+}
